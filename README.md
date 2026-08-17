@@ -170,3 +170,6 @@ Pure-frontend preview (in-browser mock data, no backend): `cd frontend && VITE_U
 3. **Teach it** — "that's a known timing difference, treat as matched."
 4. **Run again** → it remembers, auto-resolves it (exceptions 1 → 0). Codex did the
    engineering; you only signed off.
+
+
+Made By Smruti Singh
